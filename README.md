@@ -18,4 +18,4 @@ Untuk deploy website, kami menggunakan Drv.tw (Drive to web) supaya orang lain b
 
 🔗 Link website solver: https://muizz-farhankai-pampam.on.drv.tw/Test%20Hosting/Solver%2020.html
 
-📹 Link video demo: 
+📹 Link video demo: https://youtu.be/ipa59aL1Uj4
