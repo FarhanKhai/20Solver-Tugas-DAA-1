@@ -12,7 +12,7 @@ Repository di-publish untuk memenuhi tugas mata kuliah Desain & Analisis Algorit
 Dalam repositories terdapat:
 1. link menuju web
 2. file yang digunakan untuk merancang web (HTML, CSS, JavaScript)
-3. video demo cara menjalankan solver pada web
+3. link video demo cara menjalankan solver pada web
 
 Untuk deploy website, kami menggunakan Drv.tw (Drive to web) supaya orang lain bisa mengakses solvernya dengan mengakses link.
 
